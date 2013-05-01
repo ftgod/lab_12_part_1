@@ -7,13 +7,17 @@ title: About
 ## Topics
 
 * GitHub Pages
-* CSS Frameworks
-* More Noise from the Ceiling
-		* HTML
-		* Markdwon
+	* __bold__HTML
+	* Markdown
+* __bold__CSS Frameworks
+* More _italicized_Noise from the Ceiling
 
 ## Labs
 
 1. github pages
 2. markdown
 3. bootstrap
+
+[GitHub](http://github.com)
+
+[Gundam Style](Gundam-Seed-Wallpaper.jpg)
