@@ -7,10 +7,10 @@ title: About
 ## Topics
 
 * GitHub Pages
-	* __bold__ HTML
+	* __HTML__
 	* Markdown
-* __bold__CSS Frameworks
-* More _italicized_ Noise from the Ceiling
+* __CSS__ Frameworks
+* More _Noise_ from the Ceiling
 
 ## Labs
 
