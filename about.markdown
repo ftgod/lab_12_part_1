@@ -14,6 +14,6 @@ title: About
 
 ## Labs
 
-#1. github pages
-#2. markdown
-#3. bootstrap
+1. github pages
+2. markdown
+3. bootstrap
