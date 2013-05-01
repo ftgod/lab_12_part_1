@@ -7,10 +7,10 @@ title: About
 ## Topics
 
 * GitHub Pages
-	* __bold__HTML
+	* __bold__ HTML
 	* Markdown
 * __bold__CSS Frameworks
-* More _italicized_Noise from the Ceiling
+* More _italicized_ Noise from the Ceiling
 
 ## Labs
 
@@ -20,4 +20,4 @@ title: About
 
 [GitHub](http://github.com)
 
-[Gundam Style](Gundam-Seed-Wallpaper.jpg)
+![Gundam Style](images/Gundam_Seed.jpg)
